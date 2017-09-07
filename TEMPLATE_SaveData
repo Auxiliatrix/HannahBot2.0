@@ -1,0 +1,45 @@
+# Save File Template
+# Variables
+timestamp: <time>
+savename: <name>
+
+# Save Data
+0 Inventory1
+    1 Group1
+      * $tag1, $tag2, 
+      ^ $alt1, #val1, $alt2, #val2
+        2 Item1
+          * $tag1, $tag2,
+          ^ $alt1, #val1, $alt2, #alt2
+        2 Item2
+          * $tag1, $tag2,
+          ^ $alt1, #val1, $alt2, #alt2
+    1 Group2
+      * $tag1, $tag2, 
+      ^ $alt1, #val1, $alt2, #val2
+        2 Item1
+          * $tag1, $tag2,
+          ^ $alt1, #val1, $alt2, #alt2
+        2 Item2
+          * $tag1, $tag2,
+          ^ $alt1, #val1, $alt2, #alt2
+
+0 Inventory2
+   1 Group1
+      * $tag1, $tag2, 
+      ^ $alt1, #val1, $alt2, #val2
+        2 Item1
+          * $tag1, $tag2,
+          ^ $alt1, #val1, $alt2, #alt2
+        2 Item2
+          * $tag1, $tag2,
+          ^ $alt1, #val1, $alt2, #alt2
+    1 Group2
+      * $tag1, $tag2, 
+      ^ $alt1, #val1, $alt2, #val2
+        2 Item1
+          * $tag1, $tag2,
+          ^ $alt1, #val1, $alt2, #alt2
+        2 Item2
+          * $tag1, $tag2,
+          ^ $alt1, #val1, $alt2, #alt2
